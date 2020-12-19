@@ -141,106 +141,106 @@ ALTER TABLE white_cards OWNER TO pyx;
 --
 
 COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
-1	0	1	Here is the church Here is the steeple Open the doors And there is ____.	US
-3	0	1	50% of all marriages end in ____.	US
-4	0	1	As the mom of five rambunctious boys, I'm no stranger to ____.	US
-5	0	1	Next from J.K. Rowling: <i>Harry Potter and the Chamber of ____.</i>	US
-6	0	1	This is the way the world ends This is the way the world ends Not with a bang but with ____.	US
-7	0	1	After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: ____.	US
-8	0	1	When Pharaoh remained unmoved, Moses called down a Plague of ____.	US
-9	0	1	What's there a ton of in heaven?	US
-10	0	1	It's a pity that kids these days are all getting involved with ____.	US
-11	0	1	What's a girl's best friend?	US
-12	0	1	____. High five, bro.	US
-13	0	2	Step 1: ____. Step 2: ____. Step 3: Profit.	US
-14	2	3	Make a haiku.	US
-15	0	1	The class field trip was completely ruined by ____.	US
-16	0	1	If you can't be with the one you love, love ____.	US
-17	0	1	When I am a billionaire, I shall erect a 50-foot statue to commemorate ____.	US
-18	0	1	I'm LeBron James, and when I'm not slamming dunks, I love ____.	US
-19	0	1	Uh, hey guys, I know this was my idea, but I'm having serious doubts about ____.	US
-20	0	1	Alternative medicine is now embracing the curative powers of ____.	US
-21	0	2	I never truly understood ____ until I encountered ____.	US
-22	0	1	I'm sorry, Professor, but I couldn't complete my homework because of ____.	US
-23	0	1	I drink to forget ____.	US
-24	0	1	Next on ESPN2: The World Series of ____.	US
-25	0	1	Hey Reddit! I'm ____. Ask me anything.	US
-26	0	2	That's right, I killed ____. How, you ask? ____.	US
-27	0	1	How did I lose my virginity?	US
-28	0	1	I'm going on a cleanse this week. Nothing but kale juice and ____.	US
-29	0	1	Dear Abby, I'm having some trouble with ____ and would like your advice.	US
-30	0	1	____. That was so metal.	US
-31	0	1	I got 99 problems but ____ ain't one.	US
-32	0	1	Why can't I sleep at night?	US
-33	0	1	Dude, <i>do not</i> go in that bathroom. There's ____ in there.	US
-34	0	2	Lifetime&reg; presents "____: the Story of ____."	US
-35	0	1	Hey guys, welcome to Chili's! Would you like to start the night off right with ____?	US
-36	0	1	Just once, I'd like to hear you say "Thanks, Mom. Thanks for ____."	US
-37	0	1	Old Macdonald had ____. E-I-E-I-O.	US
-38	0	1	What made my first kiss so awkward?	US
-39	0	1	Just saw this upsetting video! Please retweet!! #stop____	US
-40	0	1	What never fails to liven up the party?	US
-41	0	1	Kids, I don't need drugs to get high. I'm high on ____.	US
-42	0	2	When I was tripping on acid, ____ turned into ____.	US
-43	0	1	Life for American Indians was forever changed when the White Man introduced them to ____.	US
-44	0	1	Men's Wearhouse. You're gonna like ____. I guarantee it.	US
-45	0	1	____. Betcha can't have just one!	US
-46	0	1	Instead of coal, Santa now gives the bad children ____.	US
-47	0	1	The Chevy Tahoe. With the power and space to take ____ everywhere you go.	US
-48	0	1	Click here for ____!!!	US
-49	0	1	TSA guidelines now prohibit ____ on airplanes.	US
-50	0	1	What would grandma find disturbing, yet oddly charming?	US
-51	0	1	What's that sound?	US
-52	0	1	What is Batman's guilty pleasure.	US
-53	0	1	After eight years in the White House, how is Obama finally letting loose?	US
-54	0	1	This season at Steppenwolf, Samuel Beckett's classic existential play: Waiting for ____.	US
-55	0	1	A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ____.	US
-56	0	2	Introducing the amazing superhero/sidekick duo! It's ____ and ____!	US
-57	0	1	Mabe she's born with it. Maybe it's ____.	US
-58	0	2	They said we were crazy. They said we couldn't put ____ inside of ____. They were wrong.	US
-59	0	1	Arby's: We Have ____.	US
-60	0	1	What will always get you laid?	US
-61	0	1	My fellow Americans: Before this decade is out, we <i>will</i> have ____ on the moon!	US
-62	0	1	What ended my last relationship?	US
-63	0	1	Why do I hurt all over?	US
-64	0	1	When I am President, I will create the Department of ____.	US
-65	0	1	But before I kill you, Mr. Bond, I must show you ____.	US
-66	2	3	____ + ____ = ____.	US
-67	0	1	What's Teach For America using to inspire inner city students to succeed?	US
-68	0	1	War! What is it good for?	US
-69	0	2	In M. Night Shyamalan's new movie, Bruce Willis discovers that ____ had really been ____ all along.	US
-70	0	1	Military historians remember Alexander the Great for his brilliant use of ____ against the Persians.	US
-71	0	1	A romantic, candlelit dinner would be incomplete without ____.	US
-72	0	1	Coming to Broadway this season, ____: The Musical.	US
-73	0	1	Brought to you by Bud Light&reg;, the official Beer of ____.	US
-74	0	1	Check me out, yo! I call this dance move "____."	US
-75	0	2	And the Academy Award for ____ goes to ____.	US
-76	0	1	Introducing X-treme Baseball! It's like baseball, but with ____!	US
-77	0	1	Fun tip! When your man asks you to go down on him, try surprising him with ____ instead.	US
-78	0	1	I'm no doctor but I'm pretty sure what you're suffering from is called "____."	US
-79	0	1	Bravo's new reality show features eight washed-up celebrities living with ____.	US
-80	0	1	White people like ____.	US
-81	0	1	____: kid-tested, mother-approved.	US
-82	0	1	IF you like ____, YOU MIGHT BE A REDNECK.	US
-83	0	1	What gives me uncontrollable gas?	US
-84	0	2	____ is a slippery slope that leads to ____.	US
-85	0	1	Today on <i>Maury</i> : "Help! My son is ____!"	US
-86	0	1	What is George W. Bush thinking about right now?	US
-87	0	2	For my next trick, I will pull ____ out of ____.	US
-88	0	1	What's that smell?	US
-89	0	1	____. It's a trap!	US
-90	0	1	Well if you'll excuse me, gentlemen, I have a date with ____.	US
-91	0	1	&#x2605;&#x2606;&#x2606;&#x2606;&#x2606; Do NOT go here! Found ____ in my Kung Pao chicken!	US
-92	0	1	Why am I sticky?	US
-93	0	1	What makes life worth living?	US
-94	0	1	In the Disney Channel Original Movie, Hannah Montana struggles with ____ for the first time.	US
-95	0	1	While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ____.	US
-96	0	1	What's my secret power?	US
-97	0	1	What are my parents hiding from me?	US
-98	0	1	Daddy, why is mommy crying?	US
-99	0	1	During sex, I like to think about ____.	US
-100	0	1	Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is ____?	US
-101	0	1	I get by with a little help from ____.	US
+1	0	1	The FurCon Strangler lured his victims with promises of ____.	FURRY
+3	0	1	Introducing your child to the furry lifestyle begins with ____.	FURRY
+4	0	1	Likes ____ and ____. Dislikes: Mean people.	FURRY
+5	0	1	My best friend and I first bonded over our shared love for ____.</i>	FURRY
+6	0	1	____. Better than dinner at Olive Garden.	US
+7	0	1	After repeated incidents involving ____ in the con hotel lounge, furries are now banned.	FURRY
+8	0	1	Buster Moon could save his theatre with a contest featuring ____.	FURRY
+9	0	1	At last, with ____, my collection is complete!	FURRY
+10	0	1	Gamers everywhere reeled in shock when the Koopa Kids' mother was revealed to be ____.	FURRY
+11	0	1	I always knew the Holocaust was wrong, but I didn't realize how wrong until I saw art of ____ in a concentration camp.	FURRY
+12	0	1	I just finished an art trade, but instead of drawing what I asked for, the other artist drew ____.	FURRY
+13	0	2	I was scarred for life when I accidentally found ____ hidden in my dad's room.	FURRY
+14	2	3	I went to the #AltFurry tag, but all I saw is tweets about ____.	FURRY
+15	0	1	If furries could vote, we could have elected ____ for President	FURRY
+16	0	1	I'm starting an online petition to have ____ banned from all furry conventions.	FURRY
+17	0	1	I'm seriously considering posting a Craigslist ad to sell ____.	FURRY
+18	0	1	My fetishes are getting extreme. I can't cum without ____.	FURRY
+19	0	1	In Zootopia 2, Nick and Judy are handed a case where the most important clue is ____.	FURRY
+20	0	1	My safeword is ____.	FURRY
+21	0	2	Roses are red, Violets are blue, I fap to ____, And soon you will too.	FURRY
+22	0	1	The best route to Morenatsu is the one with ____.	FURRY
+23	0	1	This year, it seems like every table in the Dealer's Den is selling ____.	FURRY
+24	0	1	When I was a kid, I had ____ printed on my TrapperKeeper.	FURRY
+25	0	1	Take whatever booty you can find, but ____ is mine!	FURRY
+26	0	2	The Great Redwall Feast was rudely interrupted by ____.	FURRY
+27	0	1	To make my F-List profle complete, I need a picture of ____ indulging in ____.	FURRY
+28	0	1	Tumblr SJWs are raging about the innocent depiction of ____ in the new children's show	FURRY
+29	0	1	We start with ____ between two slices of our artisan bread.	FURRY
+30	0	1	In the furry rave I noticed ____ out of the corner of my eye and my blood ran cold.	FURRY
+31	0	1	It's all fun and games until ____ shows up at the party.	FURRY
+32	0	1	My new webcomic combines ____ and ____ with hilarious results.	FURRY
+33	0	1	Nothing tells the world you're a weird pervert like a proudly displayed tattoo of ____.	FURRY
+34	0	2	Parent's just don't understand ____.	FURRY
+35	0	1	She's into ____? Wife her.	FURRY
+36	0	1	Don't tell mom, but the weird stain on the carpet was caused by ____.	FURRY
+37	0	1	Every new artist's journey begins with eager requests for drawings of ____.	FURRY
+38	0	1	Everyone's furry for ____.	FURRY
+39	0	1	Gamer furs have designed a new mod for Skyrim featuring ____.	FURRY
+40	0	1	"I love ____ and I'm not afraid to admit it. Furry Pride!"	FURRY
+41	0	1	In 1997 there was an epic furry scandal involving Space Jam's Lola Bunny and ____.	FURRY
+42	0	2	____ is definitey stimulating... but is it art?	FURRY
+43	0	1	____ is such a white people fetish.	FURRY
+44	0	1	____: the most popular tag on e621.	FURRY
+45	0	1	____. Betcha can't have just one!	FURRY
+46	0	1	Instead of coal, Santa now gives the bad children ____.	FURRY
+47	0	1	The Chevy Tahoe. With the power and space to take ____ everywhere you go.	FURRY
+48	0	1	Click here for ____!!!	FURRY
+49	0	1	TSA guidelines now prohibit ____ on airplanes.	FURRY
+50	0	1	After much deliberation, Grandma decided she liked ____ after all.  FURRY
+51	0	1	What's that sound?	FURRY
+52	0	1	What is Batman's guilty pleasure.	FURRY
+53	0	1	After eight years in the White House, how is Obama finally letting loose?	FURRY
+54	0	1	Some idiot buying a dozen commissions depicting ____ instead of paying rent.    FURRY
+55	0	1	A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ____.	FURRY
+56	0	2	Introducing the amazing superhero/sidekick duo! It's ____ and ____!	FURRY
+57	0	1	Maybe she's born with it. Maybe it's ____.	FURRY
+58	0	2	They said we were crazy. They said we couldn't put ____ inside of ____. They were wrong.	FURRY
+59	0	1	Today I brought ____ to school for show and tell.	FURRY
+60	0	1	What will always get you laid?	FURRY
+61	0	1	My fellow Americans: Before this decade is out, we <i>will</i> have ____ on the moon!	FURRY
+62	0	1	What ended my last relationship?	FURRY
+63	0	1	Why do I hurt all over?	FURRY
+64	0	1	When I am President, I will create the Department of ____.	FURRY
+65	0	1	But before I kill you, Mr. Bond, I must show you ____.	FURRY
+66	2	3	The first furry museum will have an exhibit featuring ____.	FURRY
+67	0	1	I commissioned ____ but the artist drew ____ by mistake... and I couldn't be happier!	FURRY
+68	0	1	Deep inside the old silver mine, Scooby and Shaggy encountered ____ and trembled in both fear and arousal.	FURRY
+69	0	2	In M. Night Shyamalan's new movie, Bruce Willis discovers that ____ had really been ____ all along.	FURRY
+70	0	1	I love waking up on Christmas morning knowing that ____ is waiting for me under the tree.	FURRY
+71	0	1	A romantic, candlelit dinner would be incomplete without ____.	FURRY
+72	0	1	Coming to Broadway this season, ____: The Musical.	FURRY
+73	0	1	My instructional YouTube video about ____ got over one million hits!	FURRY
+74	0	1	Check me out, yo! I call this dance move "____."	FURRY
+75	0	2	And the Academy Award for ____ goes to ____.	FURRY
+76	0	1	Introducing X-treme Baseball! It's like baseball, but with ____!	FURRY
+77	0	1	This year's con charity is for the victims of ____.	FURRY
+78	0	1	I'm no doctor but I'm pretty sure what you're suffering from is called "____."	FURRY
+79	0	1	Tyra Banks has a new episode about ____.	FURRY
+80	0	1	White people like ____.	FURRY
+81	0	1	____: kid-tested, furry-approved.	FURRY
+82	0	1	If you can detect it early you can stop ____.	FURRY
+83	0	1	What gives me uncontrollable gas?	FURRY
+84	0	2	Fuck you I'm ____.	FURRY
+85	0	1	Today on <i>Judge Judy</i> : "Help! My son is ____!"	FURRY
+86	0	1	"You're at the wrong convention buddy. This con's for ____ only."	FURRY
+87	0	2	I broke up with my mate because they were ____.	FURRY
+88	0	1	What's that smell?	FURRY
+89	0	1	Sure they're smart but can they see why kids love ____?	FURRY
+90	0	1	Well if you'll excuse me, gentlemen, I have a date with ____.	FURRY
+91	0	1	&#x2605;&#x2606;&#x2606;&#x2606;&#x2606; My dentist recommends ____ for that nice white smile.	FURRY
+92	0	1	During the convention I lived off of rame and ____.	FURRY
+93	0	1	What makes life worth living?	FURRY
+94	0	1	____ is my spirit animal.	FURRY
+95	0	1	While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ____.	FURRY
+96	0	1	What's my secret power?	FURRY
+97	0	1	What are my parents hiding from me?	FURRY
+98	0	1	If you like it then you should have put a ____ on it.	FURRY
+99	0	1	During sex, I like to think about ____.	FURRY
+100	0	1	I want to be inflated with ____.	FURRY
+101	0	1	What's my secret fetish?	FURRY
 102	0	1	I'm no doctor, but I'm pretty sure what you're suffering from is called "____."	CA
 104	0	1	As the mom of five rambunctious boys, I'm not stranger to ____.	CA
 105	0	2	CBC presents "____: the Story of ____."	CA
