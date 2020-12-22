@@ -7481,6 +7481,38 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2620	Game of Thrones spoilers.	WWW
 2621	Cat massage.	WWW
 2622	Matching with Mom on Tinder.	WWW
+2623    A "Your Character Here" auction with 72 character slots.    FURRY
+2624    A zebra-fox-rhinoceros-orca hybrid. FURRY
+2625    Accidentally sticking my dick in a trap. A bear trap.    FURRY
+2626    An animated gif of a violently twerking furry ass.  FURRY
+2627    Cocktongues FURRY
+2628    Cloaca: Nature's Wonder Hole.   FURRY
+2629    Buying piles of cheap adoptables just so my character can eat them. FURRY
+2630    An erotically framed photo of the family pet.   FURRY
+2631    Anal play gone horribly wrong.  FURRY
+2632    An industrial grade milking machine.    FURRY
+2633    Publically bashing a fetish I wank off to in secret.    FURRY
+2634    Neopets.    FURRY
+2635    Naked mole-rat otherkin.    FURRY
+2636    Monterey Jake having a massive coronary.    FURRY
+2637    Monstercock.    FURRY
+2638    Making guests and hotel staff uncomfortable.    FURRY
+2639    
+2640    
+2641    
+2642    
+2643    
+2644    
+2645    
+2646    
+2647    
+2648    
+2649    
+2650    
+2651    
+2652    
+2653    
+
 \.
 
 
